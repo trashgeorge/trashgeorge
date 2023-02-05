@@ -6,7 +6,7 @@
 ![Jorge Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devjorge&show_icons=true&theme=gruvbox
 )
 
-![giphy](https://user-images.githubusercontent.com/121786722/216842480-e6ffc214-ec4d-43b0-aedb-1d02db8b7a26.gif)
+![giphy (1)](https://user-images.githubusercontent.com/121786722/216848175-ff90aa88-c6dc-450d-816b-a72f94c9c848.gif)
 
 ### Tecnologias Utilizadas! 📔
 
