@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jorge Lucas 👋
 
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oi_george/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/index.george/) 
 
 ![Jorge Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devjorge&show_icons=true&theme=gruvbox)
 
